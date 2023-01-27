@@ -1,7 +1,5 @@
 
-
-
-
+<img src="src/resources/game.jpg" ><img/>
 
 ### JPanel :
 1. Simplest container class. 
